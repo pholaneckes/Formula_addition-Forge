@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "formula_addition:chain"
+        }
+    },
+    "result": {
+        "item": "minecraft:chainmail_leggings",
+        "count": 1
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "formula_addition:block/chain" }
+  }
+}
